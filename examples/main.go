@@ -3,7 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	"github.com/jessevdk/go-flags"
+	"github.com/Potterli20/go-flags-fork"
 	"os"
 	"strconv"
 	"strings"
